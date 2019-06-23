@@ -21,11 +21,11 @@ public class BallCollision : MonoBehaviour
         }
 
         if(collision.gameObject.name == "Top Barrier") {
-            Debug.Log("The ball has hit a barrier.");
+            Debug.Log("The ball has hit the top barrier.");
         }
 
         if (collision.gameObject.name == "Bottom Barrier") {
-            Debug.Log("The ball has hit a barrier.");
+            Debug.Log("The ball has hit the bottom barrier.");
         }
     }
 }
