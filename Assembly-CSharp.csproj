@@ -60,6 +60,7 @@
      <Compile Include="Assets\Scripts\Paddle2Move.cs" />
      <Compile Include="Assets\Scripts\PaddleMove.cs" />
      <Compile Include="Assets\Scripts\Score.cs" />
+     <None Include="Assets\Fonts\LICENSE.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/User1/Pong/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
